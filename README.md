@@ -10,7 +10,7 @@ The project uses the BB84 protocol to generate a key with which you are going to
 4.	Convert the data to the encoded image.
 5.	Decode the image using the same generated key.
 # References
-[1] [Qiskit Textbook](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html#Novel-Enhanced-Quantum-Representation-(NEQR)-for-Digital-Images)\
+[1] [Qiskit Textbook](https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html)\
 [2] [Qiskit Textbook](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html#Novel-Enhanced-Quantum-Representation-(NEQR)-for-Digital-Images)\
-[3] [Anand, Alok, et al. "Quantum Image Processing." arXiv preprint arXiv:2203.01831 (2022).](https://arxiv.org/pdf/2203.01831.pdf)
-[4] [Q-munity Textbook](https://qiskit.org/textbook/ch-applications/image-processing-frqi-neqr.html#Novel-Enhanced-Quantum-Representation-(NEQR)-for-Digital-Images)\
+[3] [Anand, Alok, et al. "Quantum Image Processing." arXiv preprint arXiv:2203.01831 (2022).](https://arxiv.org/pdf/2203.01831.pdf)\
+[4] [Q-munity Textbook](https://www.qmunity.tech/tutorials/quantum-teleportation)
